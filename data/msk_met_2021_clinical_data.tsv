@@ -1,0 +1,142 @@
+Sample ID	Patient ID	Cancer Type	Metastatic Site	Metastatic patient	Distant Mets: CNS/Brain	Sample Type	Subtype Abbreviation
+CRC_Brain_01	CRC_Brain_01	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_02	CRC_Brain_02	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_03	CRC_Brain_03	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_04	CRC_Brain_04	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_05	CRC_Brain_05	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_06	CRC_Brain_06	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_07	CRC_Brain_07	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_08	CRC_Brain_08	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_09	CRC_Brain_09	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_10	CRC_Brain_10	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_11	CRC_Brain_11	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Brain_12	CRC_Brain_12	Colorectal Cancer	CNS/Brain	TRUE	Yes	Metastasis	CRC
+CRC_Primary_01	CRC_Primary_01	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_02	CRC_Primary_02	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_03	CRC_Primary_03	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_04	CRC_Primary_04	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_05	CRC_Primary_05	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_06	CRC_Primary_06	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_07	CRC_Primary_07	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_08	CRC_Primary_08	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_09	CRC_Primary_09	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_10	CRC_Primary_10	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_11	CRC_Primary_11	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_12	CRC_Primary_12	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_13	CRC_Primary_13	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_14	CRC_Primary_14	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Primary_15	CRC_Primary_15	Colorectal Cancer		FALSE	No	Primary	CRC
+CRC_Liver_01	CRC_Liver_01	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_02	CRC_Liver_02	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_03	CRC_Liver_03	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_04	CRC_Liver_04	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_05	CRC_Liver_05	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_06	CRC_Liver_06	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_07	CRC_Liver_07	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_08	CRC_Liver_08	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_09	CRC_Liver_09	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_10	CRC_Liver_10	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_11	CRC_Liver_11	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_12	CRC_Liver_12	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_13	CRC_Liver_13	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_14	CRC_Liver_14	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Liver_15	CRC_Liver_15	Colorectal Cancer	Liver	TRUE	No	Metastasis	CRC
+CRC_Lung_01	CRC_Lung_01	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_02	CRC_Lung_02	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_03	CRC_Lung_03	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_04	CRC_Lung_04	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_05	CRC_Lung_05	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_06	CRC_Lung_06	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_07	CRC_Lung_07	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_08	CRC_Lung_08	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_09	CRC_Lung_09	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lung_10	CRC_Lung_10	Colorectal Cancer	Lung	TRUE	No	Metastasis	CRC
+CRC_Lymph_01	CRC_Lymph_01	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+CRC_Lymph_02	CRC_Lymph_02	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+CRC_Lymph_03	CRC_Lymph_03	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+CRC_Lymph_04	CRC_Lymph_04	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+CRC_Lymph_05	CRC_Lymph_05	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+CRC_Lymph_06	CRC_Lymph_06	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+CRC_Lymph_07	CRC_Lymph_07	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+CRC_Lymph_08	CRC_Lymph_08	Colorectal Cancer	Lymph	TRUE	No	Metastasis	CRC
+LC_Brain_01	LC_Brain_01	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_02	LC_Brain_02	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_03	LC_Brain_03	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_04	LC_Brain_04	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_05	LC_Brain_05	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_06	LC_Brain_06	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_07	LC_Brain_07	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_08	LC_Brain_08	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_09	LC_Brain_09	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Brain_10	LC_Brain_10	Non-Small Cell Lung Cancer	CNS/Brain	TRUE	Yes	Metastasis	LC
+LC_Primary_01	LC_Primary_01	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Primary_02	LC_Primary_02	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Primary_03	LC_Primary_03	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Primary_04	LC_Primary_04	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Primary_05	LC_Primary_05	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Primary_06	LC_Primary_06	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Primary_07	LC_Primary_07	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Primary_08	LC_Primary_08	Non-Small Cell Lung Cancer		FALSE	No	Primary	LC
+LC_Liver_01	LC_Liver_01	Non-Small Cell Lung Cancer	Liver	TRUE	No	Metastasis	LC
+LC_Liver_02	LC_Liver_02	Non-Small Cell Lung Cancer	Liver	TRUE	No	Metastasis	LC
+LC_Liver_03	LC_Liver_03	Non-Small Cell Lung Cancer	Liver	TRUE	No	Metastasis	LC
+LC_Lung_01	LC_Lung_01	Non-Small Cell Lung Cancer	Lung	TRUE	No	Metastasis	LC
+LC_Lung_02	LC_Lung_02	Non-Small Cell Lung Cancer	Lung	TRUE	No	Metastasis	LC
+LC_Lung_03	LC_Lung_03	Non-Small Cell Lung Cancer	Lung	TRUE	No	Metastasis	LC
+LC_Lymph_01	LC_Lymph_01	Non-Small Cell Lung Cancer	Lymph	TRUE	No	Metastasis	LC
+LC_Lymph_02	LC_Lymph_02	Non-Small Cell Lung Cancer	Lymph	TRUE	No	Metastasis	LC
+LC_Lymph_03	LC_Lymph_03	Non-Small Cell Lung Cancer	Lymph	TRUE	No	Metastasis	LC
+MELAN_Brain_01	MELAN_Brain_01	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_02	MELAN_Brain_02	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_03	MELAN_Brain_03	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_04	MELAN_Brain_04	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_05	MELAN_Brain_05	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_06	MELAN_Brain_06	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_07	MELAN_Brain_07	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_08	MELAN_Brain_08	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_09	MELAN_Brain_09	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Brain_10	MELAN_Brain_10	Melanoma	CNS/Brain	TRUE	Yes	Metastasis	MELAN
+MELAN_Primary_01	MELAN_Primary_01	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Primary_02	MELAN_Primary_02	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Primary_03	MELAN_Primary_03	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Primary_04	MELAN_Primary_04	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Primary_05	MELAN_Primary_05	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Primary_06	MELAN_Primary_06	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Primary_07	MELAN_Primary_07	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Primary_08	MELAN_Primary_08	Melanoma		FALSE	No	Primary	MELAN
+MELAN_Liver_01	MELAN_Liver_01	Melanoma	Liver	TRUE	No	Metastasis	MELAN
+MELAN_Liver_02	MELAN_Liver_02	Melanoma	Liver	TRUE	No	Metastasis	MELAN
+MELAN_Liver_03	MELAN_Liver_03	Melanoma	Liver	TRUE	No	Metastasis	MELAN
+MELAN_Lung_01	MELAN_Lung_01	Melanoma	Lung	TRUE	No	Metastasis	MELAN
+MELAN_Lung_02	MELAN_Lung_02	Melanoma	Lung	TRUE	No	Metastasis	MELAN
+MELAN_Lung_03	MELAN_Lung_03	Melanoma	Lung	TRUE	No	Metastasis	MELAN
+MELAN_Lymph_01	MELAN_Lymph_01	Melanoma	Lymph	TRUE	No	Metastasis	MELAN
+MELAN_Lymph_02	MELAN_Lymph_02	Melanoma	Lymph	TRUE	No	Metastasis	MELAN
+MELAN_Lymph_03	MELAN_Lymph_03	Melanoma	Lymph	TRUE	No	Metastasis	MELAN
+BRCA_Brain_01	BRCA_Brain_01	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_02	BRCA_Brain_02	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_03	BRCA_Brain_03	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_04	BRCA_Brain_04	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_05	BRCA_Brain_05	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_06	BRCA_Brain_06	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_07	BRCA_Brain_07	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_08	BRCA_Brain_08	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_09	BRCA_Brain_09	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Brain_10	BRCA_Brain_10	Breast Cancer	CNS/Brain	TRUE	Yes	Metastasis	BRCA
+BRCA_Primary_01	BRCA_Primary_01	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Primary_02	BRCA_Primary_02	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Primary_03	BRCA_Primary_03	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Primary_04	BRCA_Primary_04	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Primary_05	BRCA_Primary_05	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Primary_06	BRCA_Primary_06	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Primary_07	BRCA_Primary_07	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Primary_08	BRCA_Primary_08	Breast Cancer		FALSE	No	Primary	BRCA
+BRCA_Liver_01	BRCA_Liver_01	Breast Cancer	Liver	TRUE	No	Metastasis	BRCA
+BRCA_Liver_02	BRCA_Liver_02	Breast Cancer	Liver	TRUE	No	Metastasis	BRCA
+BRCA_Liver_03	BRCA_Liver_03	Breast Cancer	Liver	TRUE	No	Metastasis	BRCA
+BRCA_Lung_01	BRCA_Lung_01	Breast Cancer	Lung	TRUE	No	Metastasis	BRCA
+BRCA_Lung_02	BRCA_Lung_02	Breast Cancer	Lung	TRUE	No	Metastasis	BRCA
+BRCA_Lung_03	BRCA_Lung_03	Breast Cancer	Lung	TRUE	No	Metastasis	BRCA
+BRCA_Lymph_01	BRCA_Lymph_01	Breast Cancer	Lymph	TRUE	No	Metastasis	BRCA
+BRCA_Lymph_02	BRCA_Lymph_02	Breast Cancer	Lymph	TRUE	No	Metastasis	BRCA
+BRCA_Lymph_03	BRCA_Lymph_03	Breast Cancer	Lymph	TRUE	No	Metastasis	BRCA
