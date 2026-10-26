@@ -1,6 +1,6 @@
-# CRC brain metastases — analysis code
+# CRC brain metastases analysis
 
-Self-contained R scripts + **demo data** for the manuscript:
+R scripts + **demo data** for the manuscript:
 
 **Aneuploidy profiling among different types of brain metastases reveals a colon cancer-specific chromosomal signature**
 
