@@ -4,6 +4,10 @@ Self-contained R scripts + **demo data** for the manuscript:
 
 **Aneuploidy profiling among different types of brain metastases reveals a colon cancer-specific chromosomal signature**
 
+Aparajita Khan, Mengrui Zhang, Susan M. Grimes, Billy T. Lau, Anuja Sathe, Summer Han, Hanlee P. Ji  
+
+Stanford University, Stanford, CA
+
 ## Layout
 
 ```
